@@ -1,5 +1,5 @@
 # ZeroTools
-The tools recomended by @imtheisobhan on telgram 
+The tools recomended by @nullop1 on telgram 
 
 # who recomended? 
 1. ddos speedup
@@ -12,7 +12,7 @@ This tools only for purpose
 and test antiddos
 
 
-#theisobhan new generation
+#thenull new generation
 
 # How to run
 
