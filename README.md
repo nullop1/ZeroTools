@@ -1,14 +1,14 @@
 # ZeroTools
-The tools recomended by @nullop1 on telgram 
+The tools coded by @nullop1 on telgram / discord
 
-# who recomended? 
-1. ddos speedup
-2. fps boosted and bug fixed
-3. add custom execute cmd
-4. update day by day
+# what have ability this code?
+1. simple ddos and old ddos script / python
+2. bug fixing every day
+3. check host with script 
+4. e2u ( easy to use )
 
 
-This tools only for purpose 
+For educational purposes only
 and test antiddos
 
 
@@ -16,6 +16,7 @@ and test antiddos
 
 # How to run
 
-1. download requirements
+1. download script from ZeroScript.zip
 2. Extract zip file
-3. click on start.py
+3. click on start.bat
+4. enjoy with this script
