@@ -291,7 +291,7 @@ def layer7_menu():
 {C_RESET}""")
 
     choice = input(f"{C_GREEN}Select Method You Want:  {C_RESET}")
-    target = input(f"{C_GREEEN}Give Target URL:  {C_RESET}")
+    target = input(f"{C_GREEN}Give Target URL:  {C_RESET}")
 
     if not urlparse(target).scheme:
         print(f"{C_RED}Invalid URL!{C_RESET}")
