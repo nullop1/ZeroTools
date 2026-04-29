@@ -1161,7 +1161,7 @@ def l7_menu():
         print(R + "Unknown method. Type 'back' to return.")
         return
 
-    url = input(getattr + "Target URL " + G + "$ " + G).strip()
+    url = input(G + "Target URL " + G + "$ " + G).strip()
     try:
         th = int(input(G + "Threads " + G + "$ " + G) or "500")
     except:
