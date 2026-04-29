@@ -1,3 +1,5 @@
-colorama>=0.4.4
-datetime
+colorama
 requests
+cloudscraper
+PySocks
+httpx
