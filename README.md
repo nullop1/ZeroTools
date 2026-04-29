@@ -12,7 +12,7 @@
 ## 📥 How To Install?
 1. Git Clone:
    ```bash
-   git clone https://github.com/nullop1/zerotools.git
+   git clone https://github.com/nullop1/zerotools
    cd zerotools
    ```
 2. Install requirments or start.bat
