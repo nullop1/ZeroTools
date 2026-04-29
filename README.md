@@ -7,7 +7,7 @@
 - More Than **30 layer7 methods!**  (GET, POST, HEAD, Cloudflare Bypass, OVH Bypass, HTTP/2، Slowloris، XML‑RPC and more...)
 - More Than **15 Layer4 method!** (UDP, TCP, SYN, ICMP, Valve, Teamspeak, FiveM, Minecraft andmore ...)
 - Support Proxy (SOCKS5 / HTTP) 
-- ** CheckHost ** ability without more cdn(s)
+- **CheckHost** ability without more cdn(s)
 
 ## 📥 How To Install?
 1. Git Clone:
