@@ -1,6 +1,6 @@
 # ZeroTool
 
-**ZeroTool** The Goodest Pentesting Tool
+**ZeroTool** The Normal Pentesting Tool
 > ⚠️ This project is only for eductial purpose only
 
 ## ✨ Abilitys
@@ -30,9 +30,9 @@ python zerotool.py
 ```
 
 
-🤝 bugfix
+🤝 bugfix,
 Please contact me on discord or telegram to bug fix
 
 📜 C-CopyRight/nullop1-nullsquad
 
-**Developer: TheNull - nullop1**
+**Developer: TheNull - nullop1 **
